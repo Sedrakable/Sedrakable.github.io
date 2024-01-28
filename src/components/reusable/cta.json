@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_reusable_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_button_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
